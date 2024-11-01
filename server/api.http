@@ -1,0 +1,9 @@
+### Get Color collection
+
+GET http://localhost:1337/api/colors
+
+### Get unique color
+GET http://localhost:1337/api/colors?name=green
+
+### Get services
+GET http://localhost:1337/api/servicios
