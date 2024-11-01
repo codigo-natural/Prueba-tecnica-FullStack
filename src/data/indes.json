@@ -1,0 +1,26 @@
+{
+  "header": {
+    "title": "Prueba freelance Fullstack",
+    "subtitle": "Vamos con toda!",
+    "stack_tech": [
+      "Typescript",
+      "SQL",
+      "NodeJS",
+      "ReactJS",
+      "NextJS",
+      "Strapi"
+    ],
+    "image": "/hero.png"
+  },
+  "section": {
+    "title": "Lorem Ipsum",
+    "subtitle": "Lo que hay que hacer?",
+    "text": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500.",
+    "image": "/images/home-bg.jpg",
+    "button": "Ir a la ruta '/' "
+  },
+  "card": {
+    "title": "Servicios",
+    "button": "Borrar último servicio del color actual"
+  }
+}
